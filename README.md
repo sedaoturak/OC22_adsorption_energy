@@ -6,4 +6,4 @@ To be able to calculate, adosrption energy of a specific adsorbate on a material
 
 References:\
 [1] [OCP Github Page](https://github.com/Open-Catalyst-Project/ocp)\
-[2] [R. Tran, et.al (2023) *ACS Catalysis*, 13(5), 3066-3084.](https://pubs.acs.org/doi/10.1021/acscatal.2c05426)\
+[2] [R. Tran, et.al (2023) *ACS Catalysis*, 13(5), 3066-3084.](https://pubs.acs.org/doi/10.1021/acscatal.2c05426)
